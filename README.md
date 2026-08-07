@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Davin (Dadadadavin) 👋</h1>
+<h1 align="center">Hi there, I'm Dadadadavin 👋</h1>
 <h3 align="center">🚀 Hardware × Software × Edge ML Engineer</h3>
 
 <p align="center">
@@ -69,11 +69,12 @@ Currently, I am researching **Wi-Fi Channel State Information (CSI) sensing** on
 ### 📈 Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dadadadavin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=dadadadavin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dadadadavin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadadadavin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=dadadadavin&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
@@ -93,4 +94,4 @@ Currently, I am researching **Wi-Fi Channel State Information (CSI) sensing** on
   <img src="https://api.visitorbadge.io/api/visitors?path=dadadadavin.dadadadavin&countColor=%2300C853&style=flat" alt="Profile Visitors" />
 </p>
 
-<p align="center"><i>Designed & Engineered with ❤️ by Davin</i></p>
+<p align="center"><i>Designed & Engineered with ❤️ by Dadadadavin</i></p>
