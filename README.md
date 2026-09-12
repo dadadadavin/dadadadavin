@@ -43,6 +43,7 @@ Currently, I am researching **Wi-Fi Channel State Information (CSI) sensing** on
 ### 🛠️ Tech & Arsenal
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -62,6 +63,9 @@ Currently, I am researching **Wi-Fi Channel State Information (CSI) sensing** on
 * 🤖 **[ALEX-FIRMWARE](https://github.com/dadadadavin/ALEX-FIRMWARE)** — AI Multimodal Hardware & Firmware Suite (ESP32, Gemini Live API, VAD, SQLite memory & study engine).
 * 📊 **[AGORE-STOCK-ANALYZER](https://github.com/dadadadavin/AGORE-STOCK-ANALYZER)** — Quantitative market microstructure & AI engine for the Indonesian Stock Exchange (IDX).
 * 📡 **[WiGaruda-CSI](https://github.com/dadadadavin/WiGaruda-CSI)** — Wi-Fi Channel State Information (CSI) sensing & edge ML recognition model on ESP32.
+* 🏝️ **[happy-mac-notch](https://github.com/dadadadavin/happy-mac-notch)** — Native, hyper-responsive Dynamic Island & Notch utility for macOS (SwiftUI, live synchronized lyrics, drag & drop shelf, hardware metrics).
+* 🧵 **[auto-thread](https://github.com/dadadadavin/auto-thread)** — Autonomous automation library, multi-post thread scheduler, and reverse-engineered protocol engine for Meta Threads.
+* ⏱️ **[AUTO-ENTER-TIMER-MAC](https://github.com/dadadadavin/AUTO-ENTER-TIMER-MAC)** — Automated Return/Enter key timer app & CLI for macOS with sleep prevention power assertions.
 * 🛒 **[DAGANGIN-system-final](https://github.com/dadadadavin/DAGANGIN-system-final)** — Full-stack product ecosystem & telemetry suite.
 
 ---
