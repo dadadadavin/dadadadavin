@@ -73,12 +73,7 @@ Currently, I am researching **Wi-Fi Channel State Information (CSI) sensing** on
 ### 📈 Activity & Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=dadadadavin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dadadadavin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dadadadavin&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
