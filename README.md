@@ -1,64 +1,42 @@
-<h1 align="center">Hi there, I'm Dadadadavin 👋</h1>
-<h3 align="center">🚀 Hardware × Software × Edge ML Engineer</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=160&section=header&text=dadadadavin&fontSize=42&fontColor=2D3748&animation=fadeIn&fontAlignY=38&desc=systems%20%C2%B7%20firmware%20%C2%B7%20applied%20edge%20intelligence&descAlignY=58&descAlign=50&descSize=15&descColor=4A5568" width="100%" />
+
+  <p>
+    <a href="https://github.com/dadadadavin"><img src="https://img.shields.io/badge/focus-Wi--Fi_CSI_%26_Edge_ML-DDD6FE?style=flat-square&labelColor=F8FAFC&logo=espressif&logoColor=334155" alt="Focus" /></a>
+    <a href="https://github.com/dadadadavin"><img src="https://img.shields.io/badge/stack-C%2B%2B_%7C_Swift_%7C_Python-BAE6FD?style=flat-square&labelColor=F8FAFC" alt="Stack" /></a>
+    <a href="mailto:davin@dagangin.my.id"><img src="https://img.shields.io/badge/contact-davin%40dagangin.my.id-FED7AA?style=flat-square&logo=microsoftoutlook&logoColor=334155&labelColor=F8FAFC" alt="Email" /></a>
+    <a href="https://github.com/dadadadavin"><img src="https://img.shields.io/badge/location-Indonesia-FBCFE8?style=flat-square&labelColor=F8FAFC" alt="Location" /></a>
+  </p>
+</div>
+
+---
+
+### About Me
+
+I like building things across AI, software, and hardware. Mostly working on machine learning, automation, IoT, robotics, and whatever seems interesting enough to experiment with.
+
+---
+
+### probably knowing:
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF66&center=true&vcenter=true&width=650&lines=Hardware+%C3%97+Software+%C3%97+Edge+ML+Engineer;CSI+Wi-Fi+Sensing+%26+Signal+Processing;Building+ESP32+Multimodal+AI+%26+IoT+Systems;Quantitative+Market+Microstructure+Engines" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="mailto:davin@dagangin.my.id">
-    <img src="https://img.shields.io/badge/Email-davin%40dagangin.my.id-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/dadadadavin">
-    <img src="https://img.shields.io/badge/Status-CSI_Research_%26_Edge_ML-00C853?style=for-the-badge&logo=espressif&logoColor=white" alt="Status" />
-  </a>
-  <a href="https://github.com/dadadadavin">
-    <img src="https://img.shields.io/badge/Focus-IoT_%2B_Signal_Processing_%2B_GenAI-7C4DFF?style=for-the-badge&logo=python&logoColor=white" alt="Focus" />
-  </a>
-  <a href="https://github.com/dadadadavin">
-    <img src="https://img.shields.io/badge/Location-Indonesia_🇮🇩-FFD600?style=for-the-badge&logoColor=black" alt="Location" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white" alt="MQTT" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
 
 ---
 
-### ⚡ About Me
-
-I operate at the convergence of **Embedded Systems, Signal Processing, and Edge Machine Learning**. 
-
-Currently, I am researching **Wi-Fi Channel State Information (CSI) sensing** on ESP32 microcontrollers combined with deep learning, alongside building multi-modal hardware assistants (Gemini Live API + low-latency audio/video UDP streaming) and quantitative market microstructure engines.
-
-* 🔬 **Research Focus**: Wi-Fi CSI sensing, non-intrusive human motion/activity recognition, and edge AI optimization.
-* 🛠️ **Engineering**: Real-time I2S audio/MJPEG streaming, VAD algorithms, vector databases, and custom firmware development.
-* 💡 **Core Mantra**: *Bridging physical sensors with intelligent AI architectures.*
-
----
-
-### 🛠️ Tech & Arsenal
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white" alt="MQTT" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-</p>
-
----
-
-### 🌟 Featured Projects
+### Featured Projects
 
 * 🤖 **[ALEX-FIRMWARE](https://github.com/dadadadavin/ALEX-FIRMWARE)** — AI Multimodal Hardware & Firmware Suite (ESP32, Gemini Live API, VAD, SQLite memory & study engine).
 * 📊 **[AGORE-STOCK-ANALYZER](https://github.com/dadadadavin/AGORE-STOCK-ANALYZER)** — Quantitative market microstructure & AI engine for the Indonesian Stock Exchange (IDX).
@@ -70,27 +48,27 @@ Currently, I am researching **Wi-Fi Channel State Information (CSI) sensing** on
 
 ---
 
-### 📈 Activity & Stats
+### Activity & Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dadadadavin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dadadadavin&layout=compact&theme=minimal&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
 
-### 🤝 Connect & Collaborate
+### Connect
 
 <p align="center">
   <a href="mailto:davin@dagangin.my.id">
-    <img src="https://img.shields.io/badge/Email-davin%40dagangin.my.id-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-davin%40dagangin.my.id-DDD6FE?style=flat-square&logo=microsoftoutlook&logoColor=334155&labelColor=F8FAFC" alt="Email" />
   </a>
   <a href="https://github.com/dadadadavin">
-    <img src="https://img.shields.io/badge/GitHub-dadadadavin-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-dadadadavin-BAE6FD?style=flat-square&logo=github&logoColor=334155&labelColor=F8FAFC" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=dadadadavin.dadadadavin&countColor=%2300C853&style=flat" alt="Profile Visitors" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=dadadadavin.dadadadavin&countColor=%2393c5fd&style=flat" alt="Profile Visitors" />
 </p>
 
-<p align="center"><i>Designed & Engineered with ❤️ by Dadadadavin</i></p>
+<p align="center"><i>Designed & Engineered by dadadadavin</i></p>
