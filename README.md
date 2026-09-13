@@ -1,12 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=160&section=header&text=dadadadavin&fontSize=42&fontColor=2D3748&animation=fadeIn&fontAlignY=38&desc=systems%20%C2%B7%20firmware%20%C2%B7%20applied%20edge%20intelligence&descAlignY=58&descAlign=50&descSize=15&descColor=4A5568" width="100%" />
-
-  <p>
-    <a href="https://github.com/dadadadavin"><img src="https://img.shields.io/badge/focus-Wi--Fi_CSI_%26_Edge_ML-DDD6FE?style=flat-square&labelColor=F8FAFC&logo=espressif&logoColor=334155" alt="Focus" /></a>
-    <a href="https://github.com/dadadadavin"><img src="https://img.shields.io/badge/stack-C%2B%2B_%7C_Swift_%7C_Python-BAE6FD?style=flat-square&labelColor=F8FAFC" alt="Stack" /></a>
-    <a href="mailto:davin@dagangin.my.id"><img src="https://img.shields.io/badge/contact-davin%40dagangin.my.id-FED7AA?style=flat-square&logo=microsoftoutlook&logoColor=334155&labelColor=F8FAFC" alt="Email" /></a>
-    <a href="https://github.com/dadadadavin"><img src="https://img.shields.io/badge/location-Indonesia-FBCFE8?style=flat-square&labelColor=F8FAFC" alt="Location" /></a>
-  </p>
 </div>
 
 ---
@@ -70,5 +63,3 @@ I like building things across AI, software, and hardware. Mostly working on mach
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=dadadadavin.dadadadavin&countColor=%2393c5fd&style=flat" alt="Profile Visitors" />
 </p>
-
-<p align="center"><i>Designed & Engineered by dadadadavin</i></p>
